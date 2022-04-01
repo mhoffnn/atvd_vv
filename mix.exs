@@ -8,15 +8,13 @@ defmodule Vv2.MixProject do
       elixir: "~> 1.13.2",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
-
-test_coverage: [tool: ExCoveralls],
+      test_coverage: [tool: ExCoveralls],
       preferred_cli_env: [
         coveralls: :test,
         "coveralls.detail": :test,
         "coveralls.post": :test,
         "coveralls.html": :test
       ]
-
     ]
   end
 
