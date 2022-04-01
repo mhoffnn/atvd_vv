@@ -5,7 +5,7 @@ defmodule Vv2.MixProject do
     [
       app: :vv26s,
       version: "0.1.0",
-      elixir: "~> 1.12.0",
+      elixir: "~> 1.13.2",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
 
