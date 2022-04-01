@@ -1,3 +1,6 @@
-# Vv2
+# Verification and Validation Exercises
 
-**TODO: Add description**
+Activities carried out for the subject of the sixth period of Software Engineering, Verification and Validation, using Elixir.
+
+Employed methods:
+* TDD

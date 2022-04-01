@@ -3,9 +3,9 @@ defmodule Vv2.MixProject do
 
   def project do
     [
-      app: :vv2,
+      app: :vv26s,
       version: "0.1.0",
-      elixir: "~> 1.13",
+      elixir: "~> 1.12.0",
       start_permanent: Mix.env() == :prod,
       deps: deps()
     ]
