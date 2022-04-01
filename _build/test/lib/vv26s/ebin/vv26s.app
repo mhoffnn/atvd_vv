@@ -1,5 +1,5 @@
 {application,vv26s,
-             [{applications,[kernel,stdlib,elixir,logger]},
+             [{applications,[kernel,stdlib,elixir,logger,excoveralls]},
               {description,"vv26s"},
               {modules,['Elixir.FizzBuzz','Elixir.Imposto']},
               {registered,[]},

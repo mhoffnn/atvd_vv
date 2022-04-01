@@ -1,4 +1,4 @@
-defmodule Vv2Test do
+defmodule ImpostoTest do
   use ExUnit.Case
   doctest Imposto
 
