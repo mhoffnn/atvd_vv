@@ -1,3 +1,4 @@
+##AS8
 defmodule Salario do
   def calc(), do: :do
 

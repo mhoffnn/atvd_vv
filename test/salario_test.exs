@@ -1,3 +1,4 @@
+##AS8
 defmodule SalarioTest do
   use ExUnit.Case
   doctest Salario
